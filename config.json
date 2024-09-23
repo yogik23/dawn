@@ -1,14 +1,1 @@
-{
-  "telegram_bot_token": "APIBOTdariBOTFather", 
-  "telegram_chat_id": "idtelegram",
-  "accounts": [ 
-    {
-    "email": "emailakunke1",
-    "token": "tokenakunke1"
-    },
-    {
-    "email": "emailakunke2",
-    "token": "tokenakunke2"
-    }
-  ] 
-}
+
